@@ -1,0 +1,33 @@
+[
+{
+	college: 'College of Computer Studies',
+	logo: 'https://img.google.com/test.jpg'
+},{
+	college: 'College Accountancy and Business Administration',
+	logo: 'https://img.google.com/test.jpg'
+},{
+	college: 'College of Education',
+	logo: 'https://img.google.com/test.jpg'
+},{
+	college: 'College of Social Works',
+	logo: 'https://img.google.com/test.jpg'
+},{
+	college: 'College of Engineering and Architecture',
+	logo: 'https://img.google.com/test.jpg'
+},{
+	college: 'College of Pharmacy',
+	logo: 'https://img.google.com/test.jpg'
+},{
+	college: 'College of Criminology',
+	logo: 'https://img.google.com/test.jpg'
+},{
+	college: 'College of Arts and Languages',
+	logo: 'https://img.google.com/test.jpg'
+},{
+	college: 'College of Law',
+	logo: 'https://img.google.com/test.jpg'
+},{
+	college: 'College of Science and Math',
+	logo: 'https://img.google.com/test.jpg'
+}
+]
